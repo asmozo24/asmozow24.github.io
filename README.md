@@ -4,7 +4,7 @@
 
 <h2>Summary</h2>
 
-<p>Actively seeking a Support/Tech/Assistant/Entry Level/Associate Engineer position to enhance professional career and deliver quality services.</p>
+<p>Seeking the Support Engineer position to enhance professional career and deliver quality services.</p>
 
 <h2>Education</h2>
 
