@@ -33,7 +33,7 @@
 
 <h2>Work Experience</h2>
 
-<p><strong>Data Entry (Seasonal)</strong>, Costco Wholesale-Issaquah, WA 98027&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;11/2017 to 02/2018</p>
+<p><strong>Data Entry (Seasonal)</strong>, Costco Wholesale-Issaquah, WA 98027&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;11/2017 to 02/2018</p>
 <ul>
 <li>Programs used: Gmail, Commerce Hub, OMS, AS400, Altyerx and ONEview.</li>
 <li>Worked on VRA catalog in return logistic merchandises including Costco-ecommerce, suppliers and carriers.</li>
