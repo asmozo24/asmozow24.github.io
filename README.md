@@ -9,9 +9,9 @@
 <h2>Education</h2>
 
 <ul>
-<li><strong>Microsoft Professional Program for IT Support track </strong>-----                         02/2018-12/2018
-<li><strong>MicroMasters program, Software Testing and Verification, EdX, University of Maryland University College 02/2019</strong>----03/2018-03/2019
-<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;05/2017
+<li><strong>Microsoft Professional Program for IT Support track </strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;02/2018-12/2018
+<li><strong>MicroMasters program, Software Testing and Verification, EdX, University of Maryland University College</strong>&emsp;03/2018-03/2019
+<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
 <li>Courses: extensive Calculus, Physics, Chemistry, Statistic, Programming (c, java, C++), Protective Relay Lab, Control Systems, Circuits and Professional Ethics.</li>
 <li>Demonstrated competency over digital circuits, testing, debugging, hardware specifications, designing, operating and controlling a basic robotic car, transformers, synchronous motors, fuses, switches, digital and electromechanical relays.</li>
@@ -35,7 +35,7 @@
 
 <h2>Work Experience</h2>
 
-<p><strong>Data Entry (Seasonal)</strong>, Costco Wholesale-Issaquah, WA 98027                 ---                                       11/2017 to present</p>
+<p><strong>Data Entry (Seasonal)</strong>, Costco Wholesale-Issaquah, WA 98027&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;11/2017 to present</p>
 
 <ul>
 <li>Programs used: Gmail, Commerce Hub, OMS, AS400, Altyerx and ONEview.</li>
@@ -43,7 +43,7 @@
 <li>Processed about 250 tickets on daily basis, and delivered high performance on a special project (1st year inventory).</li>
 </ul>
 
-<p><strong>Technical Assistant</strong>, Washington State University -Pullman, WA 99164        ---                                       05/2015 to 06/2015</p>
+<p><strong>Technical Assistant</strong>, Washington State University -Pullman, WA 99164&emsp;&emsp;&emsp;&emsp;&emsp;05/2015 to 06/2015</p>
 
 <ul>
 <li>Supported hardware and software for College of Veterinary Medicine, worked in the electronics maintenance shop.</li>
@@ -51,7 +51,7 @@
 <li>Setup new client office computer and printer and successfully maintained about 100 microscopes.</li>
 </ul>
 
-<p><strong>Environmental Services Technician II</strong>, Swedish Medical Center -Issaquah, WA 98029     ---                             06/2011 to 06/2013</p>
+<p><strong>Environmental Services Technician II</strong>, Swedish Medical Center -Issaquah, WA 98029&emsp;&emsp;&emsp;&emsp;06/2011 to 06/2013</p>
 
 <ul>
 <li>Contributed to Issaquah campus through safety, sanitization and infection control in ER, ICU, OR, L&D and Postpartum.</li>
