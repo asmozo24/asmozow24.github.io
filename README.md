@@ -9,9 +9,9 @@
 <h2>Education</h2>
 
 <ul>
-<li><strong>Microsoft Professional Program for IT Support track (pending)</strong>                                                    02/2018-12/2018
-<li><strong>MicroMasters program, Software Testing and Verification(pending), EdX, University of Maryland University College 02/2019</strong>----03/2018-03/2019
-<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>                                                    05/2017
+<li><strong>Microsoft Professional Program for IT Support track </strong>-----                         02/2018-12/2018
+<li><strong>MicroMasters program, Software Testing and Verification, EdX, University of Maryland University College 02/2019</strong>----03/2018-03/2019
+<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
 <li>Courses: extensive Calculus, Physics, Chemistry, Statistic, Programming (c, java, C++), Protective Relay Lab, Control Systems, Circuits and Professional Ethics.</li>
 <li>Demonstrated competency over digital circuits, testing, debugging, hardware specifications, designing, operating and controlling a basic robotic car, transformers, synchronous motors, fuses, switches, digital and electromechanical relays.</li>
@@ -56,7 +56,7 @@
 <ul>
 <li>Contributed to Issaquah campus through safety, sanitization and infection control in ER, ICU, OR, L&D and Postpartum.</li>
 <li>Quickly gained skills through leadership, quality services and moved from EVS Tech I to Tech II within one year.</li>
-<li>Trained 06 employees, successfully completed 02 special projects, Swedish MC Annual training MRI, CPR, Hazmat and culture of safety.</li>
+<li>Trained 06 employees, successfully completed 02 special projects, Annual training MRI, CPR, Hazmat and culture of safety.</li>
 </ul>
 
 <h2>Activities</h2>
