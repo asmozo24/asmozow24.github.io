@@ -9,8 +9,8 @@
 <h2>Education</h2>
 
 <ul>
-<li><strong>Microsoft Professional Program for IT Support track 02/2018-12/2018</strong>                                                    05/2017
-<li><strong>MicroMasters program, Software Testing and Verification(pending), EdX, University of Maryland University College 02/2019</strong>                                                    05/2017
+<li><strong>Microsoft Professional Program for IT Support track (pending)------ 02/2018-12/2018</strong>                                                    05/2017
+<li><strong>MicroMasters program, Software Testing and Verification(pending), EdX, University of Maryland University College 02/2019</strong>
 <li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>                                                    05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
 <li>Courses: extensive Calculus, Physics, Chemistry, Statistic, Programming (c, java, C++), Protective Relay Lab, Control Systems, Circuits and Professional Ethics.</li>
