@@ -9,8 +9,8 @@
 <h2>Education</h2>
 
 <ul>
-<li><strong>Microsoft Professional Program for IT Support track (pending)------ 02/2018-12/2018</strong>                                                    05/2017
-<li><strong>MicroMasters program, Software Testing and Verification(pending), EdX, University of Maryland University College 02/2019</strong>
+<li><strong>Microsoft Professional Program for IT Support track (pending)</strong>                                                    02/2018-12/2018
+<li><strong>MicroMasters program, Software Testing and Verification(pending), EdX, University of Maryland University College 02/2019</strong>----03/2018-03/2019
 <li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>                                                    05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
 <li>Courses: extensive Calculus, Physics, Chemistry, Statistic, Programming (c, java, C++), Protective Relay Lab, Control Systems, Circuits and Professional Ethics.</li>
@@ -38,8 +38,9 @@
 <p><strong>Data Entry (Seasonal)</strong>, Costco Wholesale-Issaquah, WA 98027                 ---                                       11/2017 to present</p>
 
 <ul>
-<li>Check damaged, deleted, and defective goods to Return-to-Vendor/Costco inventory in the computer.</li>
-<li>Obtain vendor RA for items and sale delivery information and perform other data entry duties as needed.</li>
+<li>Programs used: Gmail, Commerce Hub, OMS, AS400, Altyerx and ONEview.</li>
+<li>Worked on VRA catalog in return logistic merchandises including Costco-ecommerce, suppliers and carriers.</li>
+<li>Processed about 250 tickets on daily basis, and delivered high performance on a special project (1st year inventory).</li>
 </ul>
 
 <p><strong>Technical Assistant</strong>, Washington State University -Pullman, WA 99164        ---                                       05/2015 to 06/2015</p>
@@ -47,13 +48,15 @@
 <ul>
 <li>Supported hardware and software for College of Veterinary Medicine, worked in the electronics maintenance shop.</li>
 <li>Worked on special projects (writing VIS-troubleshooting instructions) throughout the college network infrastructure.</li>
+<li>Setup new client office computer and printer and successfully maintained about 100 microscopes.</li>
 </ul>
 
 <p><strong>Environmental Services Technician II</strong>, Swedish Medical Center -Issaquah, WA 98029     ---                             06/2011 to 06/2013</p>
 
 <ul>
-<li>Maintained a clean environment, complied with all infection control policies, procedures and trained new employees.</li>
-<li>Worked with other staff to obtain/provide routine information, to request supplies and schedule maintenance work.</li>
+<li>Contributed to Issaquah campus through safety, sanitization and infection control in ER, ICU, OR, L&D and Postpartum.</li>
+<li>Quickly gained skills through leadership, quality services and moved from EVS Tech I to Tech II within one year.</li>
+<li>Trained 06 employees, successfully completed 02 special projects, Swedish MC Annual training MRI, CPR, Hazmat and culture of safety.</li>
 </ul>
 
 <h2>Activities</h2>
