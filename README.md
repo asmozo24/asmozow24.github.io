@@ -10,7 +10,7 @@
 
 <ul>
 <li><strong>MicroMasters program, Software Testing and Verification, EdX, University of Maryland University College</strong>&emsp;&emsp;&emsp;&emsp;03/2018-03/2019
-<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&emsp;05/2017
+<li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&emsp;&ensp;05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
 <li>Courses: extensive Calculus, Physics, Chemistry, Statistic, Programming (c, java, C++), Protective Relay Lab, Control Systems, Circuits and Professional Ethics.</li>
 <li>Demonstrated competency over digital circuits, testing, debugging, hardware specifications, designing, operating and controlling a basic robotic car, transformers, synchronous motors, fuses, switches, digital and electromechanical relays.</li>
