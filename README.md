@@ -9,7 +9,7 @@
 <h2>Education</h2>
 
 <ul>
-<li><strong>Microsoft Professional Program for IT Support track </strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     &emsp;&emsp;02/2018-12/2018
+<li><strong>Microsoft Professional Program for IT Support track </strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                   &emsp;&emsp;02/2018-12/2018
 <li><strong>MicroMasters program, Software Testing and Verification, EdX, University of Maryland University College</strong>&emsp;&emsp;&emsp;   03/2018-03/2019
 <li><strong>Bachelor of Science, Electrical Engineering, Washington State University</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   05/2017
 <ul><li>Mastered a program that focuses on improving the efficiency, reliability, and security of electric systems.</li>
